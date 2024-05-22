@@ -35,8 +35,8 @@
     <header class="cabecalho">
         <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
         <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
+            <li class="cabecalho-lista-item">Colegio</li>
+            <li class="cabecalho-lista-item">Civico Militar</li>
         </ul>
     </header>
     <section class="escola">
